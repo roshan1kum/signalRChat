@@ -1,0 +1,14 @@
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\bin\Debug\netcoreapp2.2\SignalRDemoApi.deps.json
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\bin\Debug\netcoreapp2.2\SignalRDemoApi.runtimeconfig.json
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\bin\Debug\netcoreapp2.2\SignalRDemoApi.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\bin\Debug\netcoreapp2.2\SignalRDemoApi.dll
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.RazorAssemblyInfo.cache
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.RazorAssemblyInfo.cs
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.AssemblyInfo.cs
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.RazorTargetAssemblyInfo.cache
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\bin\Debug\netcoreapp2.2\SignalRDemoApi.pdb
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.dll
+C:\Users\roshan\Desktop\chat\SignalRDemoApi\SignalRDemoApi\obj\Debug\netcoreapp2.2\SignalRDemoApi.pdb
